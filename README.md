@@ -1,1 +1,1 @@
-ZQlibCuda是对ZQlib中的一部分的CUDA实现，需要VS2015+CUDA9.0才能打开.sln文件，如果你是其他版本，请自行更改.sln和.vcxproj的内容
+ZQlibCuda�Ƕ�ZQlib�е�һ���ֵ�CUDAʵ�֣���ҪVS2015+CUDA9.0���ܴ�.sln�ļ���������������汾�������и���.sln��.vcxproj
